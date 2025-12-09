@@ -1,0 +1,8 @@
+{
+  "name": "Garuda AI",
+  "description": "Next-gen smart surveillance system powered by Gemini 3 Pro. Detects humans, fire, drones, and suspicious objects in real-time streams.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
